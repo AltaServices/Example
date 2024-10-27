@@ -1,0 +1,11 @@
+# MongoDB Configuration
+mongodb:
+  url: "mongodb://localhost:27017"
+  database: "example"
+
+# Redis Configuration
+redis:
+  host: "localhost"
+  port: 6379
+  password: ""
+
